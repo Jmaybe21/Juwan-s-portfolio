@@ -14,4 +14,6 @@ About me
  Hi the name's keith. im a northwest vista student currtenly studting to ne a game desginer, more speficly a enviormental arists.
 I am 21 of age and is seeking the life of making and owning games in my career.
 
-My lifes work throgh college
+My lifes work throgh college 
+
+ <https://github.com/Jmaybe21/Juwan-s-portfolio/blob/master/Juwan's%20work.md>
